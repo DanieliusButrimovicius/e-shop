@@ -1,0 +1,28 @@
+[
+  { "id": 1, "name": "Medvilniniai marškinėliai", "cat": "drabuziai", "price": 19.99, "stock": 42, "icon": "👕", "bg": "#EAF3DE" },
+  { "id": 2, "name": "Džinsai", "cat": "drabuziai", "price": 49.99, "stock": 30, "icon": "👖", "bg": "#DDEAF3" },
+  { "id": 3, "name": "Sportiniai batai", "cat": "avalyne", "price": 79.99, "stock": 25, "icon": "👟", "bg": "#F3EADF" },
+  { "id": 4, "name": "Odiniai batai", "cat": "avalyne", "price": 99.99, "stock": 4, "icon": "👞", "bg": "#F0E3D8" },
+  { "id": 5, "name": "Striukė", "cat": "drabuziai", "price": 89.99, "stock": 18, "icon": "🧥", "bg": "#E8EAF6" },
+
+  { "id": 6, "name": "Kepurė", "cat": "aksesuarai", "price": 14.99, "stock": 0, "icon": "🧢", "bg": "#FFF3E0" },
+  { "id": 7, "name": "Kuprinė", "cat": "aksesuarai", "price": 39.99, "stock": 22, "icon": "🎒", "bg": "#E0F7FA" },
+  { "id": 8, "name": "Laikrodis", "cat": "aksesuarai", "price": 129.99, "stock": 10, "icon": "⌚", "bg": "#FCE4EC" },
+  { "id": 9, "name": "Saulės akiniai", "cat": "aksesuarai", "price": 24.99, "stock": 35, "icon": "🕶️", "bg": "#EDE7F6" },
+
+  { "id": 10, "name": "Megztinis", "cat": "drabuziai", "price": 59.99, "stock": 20, "icon": "🧶", "bg": "#F1F8E9" },
+  { "id": 11, "name": "Šortai", "cat": "drabuziai", "price": 29.99, "stock": 28, "icon": "🩳", "bg": "#FFFDE7" },
+
+  { "id": 12, "name": "Bėgimo kostiumas", "cat": "sportas", "price": 69.99, "stock": 16, "icon": "🏃", "bg": "#E0F2F1" },
+  { "id": 13, "name": "Sportinis krepšys", "cat": "sportas", "price": 44.99, "stock": 19, "icon": "🏋️", "bg": "#E0F2F1" },
+
+  { "id": 14, "name": "Rankinė", "cat": "aksesuarai", "price": 74.99, "stock": 12, "icon": "👜", "bg": "#FBE9E7" },
+  { "id": 15, "name": "Diržas", "cat": "aksesuarai", "price": 19.99, "stock": 40, "icon": "🪢", "bg": "#EFEBE9" },
+  { "id": 16, "name": "Kojinės", "cat": "drabuziai", "price": 9.99, "stock": 60, "icon": "🧦", "bg": "#F9FBE7" },
+
+  { "id": 17, "name": "Bluetooth ausinės", "cat": "elektronika", "price": 59.99, "stock": 14, "icon": "🎧", "bg": "#E3F2FD" },
+  { "id": 18, "name": "Išmanus laikrodis", "cat": "elektronika", "price": 199.99, "stock": 9, "icon": "📱", "bg": "#E1F5FE" },
+
+  { "id": 19, "name": "Dekoratyvinė lempa", "cat": "namai", "price": 34.99, "stock": 17, "icon": "💡", "bg": "#FFF8E1" },
+  { "id": 20, "name": "Pagalvė", "cat": "namai", "price": 24.99, "stock": 23, "icon": "🛏️", "bg": "#F3E5F5" }
+]
