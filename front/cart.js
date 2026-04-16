@@ -121,7 +121,7 @@ function renderCart() {
   `;
 
   document.getElementById("checkoutButton")?.addEventListener("click", () => {
-    showNotice("Demonstracinis FE variantas: čia galėtumėte jungti checkout ar užsakymo puslapį.", "info");
+    showNotice("Užsakyta!", "info");
   });
 
   document.getElementById("clearCartButton")?.addEventListener("click", async () => {

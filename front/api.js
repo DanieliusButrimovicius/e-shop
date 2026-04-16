@@ -160,7 +160,7 @@ async function syncCartWithApi(state) {
   }
 }
 
-export async function fetchProducts({ limit = 25, sort = "desc" } = {}) {
+export async function fetchProducts({ limit = 20, sort = "desc" } = {}) {
   const products = await apiRequest("/products", {
     query: { limit, sort },
   });
@@ -176,7 +176,7 @@ export async function fetchCategories() {
   }
 }
 
-export async function fetchProductsByCategory(category, { limit = 25, sort = "desc" } = {}) {
+export async function fetchProductsByCategory(category, { limit = 20, sort = "desc" } = {}) {
   const products = await apiRequest(`/products/category/${encodeURIComponent(category)}`, {
     query: { limit, sort },
   });
